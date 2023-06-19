@@ -31,10 +31,10 @@ Count the customers in each marital category.
 Prompt the user to enter a column name for a count plot.
 Create a count plot for the chosen column.
 Prepare and print a histogram for the age column.
-Please note that this code assumes the dataset follows a specific structure, and any modifications to the dataset structure may require adjustments to the code.
+
 ![Alt text](<Output/Screenshot (181).png>)
 ![Alt text](<Output/Screenshot (182).png>)
-Feel free to explore and modify the code as needed for your specific use case. Enjoy analyzing the bank dataset!
+
 
 
 
